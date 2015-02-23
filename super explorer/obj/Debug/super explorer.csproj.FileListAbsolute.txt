@@ -1,0 +1,9 @@
+c:\users\hector09\documents\visual studio 2012\Projects\super explorer\super explorer\bin\Debug\super explorer.exe.config
+c:\users\hector09\documents\visual studio 2012\Projects\super explorer\super explorer\bin\Debug\super explorer.exe
+c:\users\hector09\documents\visual studio 2012\Projects\super explorer\super explorer\bin\Debug\super explorer.pdb
+c:\users\hector09\documents\visual studio 2012\Projects\super explorer\super explorer\obj\Debug\super explorer.csprojResolveAssemblyReference.cache
+c:\users\hector09\documents\visual studio 2012\Projects\super explorer\super explorer\obj\Debug\super_explorer.Properties.Resources.resources
+c:\users\hector09\documents\visual studio 2012\Projects\super explorer\super explorer\obj\Debug\super explorer.csproj.GenerateResource.Cache
+c:\users\hector09\documents\visual studio 2012\Projects\super explorer\super explorer\obj\Debug\super explorer.exe
+c:\users\hector09\documents\visual studio 2012\Projects\super explorer\super explorer\obj\Debug\super explorer.pdb
+c:\users\hector09\documents\visual studio 2012\Projects\super explorer\super explorer\obj\Debug\super_explorer.main.resources
