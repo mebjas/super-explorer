@@ -7,3 +7,4 @@ c:\users\hector09\documents\visual studio 2012\Projects\super explorer\super exp
 c:\users\hector09\documents\visual studio 2012\Projects\super explorer\super explorer\obj\Debug\super explorer.exe
 c:\users\hector09\documents\visual studio 2012\Projects\super explorer\super explorer\obj\Debug\super explorer.pdb
 c:\users\hector09\documents\visual studio 2012\Projects\super explorer\super explorer\obj\Debug\super_explorer.main.resources
+C:\Users\hector09\documents\visual studio 2012\Projects\super explorer\super explorer\obj\Debug\super_explorer.notif.resources
