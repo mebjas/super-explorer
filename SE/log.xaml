@@ -1,0 +1,15 @@
+﻿<Window x:Class="SE.log"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="log" Height="425.45" Width="300" Background="Black">
+    <Grid>
+        <RichTextBox x:Name="rtb" HorizontalAlignment="Left" Height="394" VerticalAlignment="Top" Width="292" Background="#FF0E0E0E" BorderBrush="Black" Foreground="#FF2A930B">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="RichTextBox"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+
+    </Grid>
+</Window>
